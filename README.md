@@ -1,4 +1,8 @@
 # A simple calculator made in java with the Swing library
+
+### The Calculator
+![image of the calculator](Images/Kalk.png)
+
 ### Operations supported:
 - Addition
 - Subtraction
@@ -9,4 +13,4 @@
 - Percent
 - Clear
 - Cache number
-![image of the calculator](Images/Kalk.png)
+
