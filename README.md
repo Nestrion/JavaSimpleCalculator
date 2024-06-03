@@ -1,4 +1,4 @@
-  # A simple calculator made in Java with the use of Swing library
+  # A simple calculator made in Java with the use of Swing library.
 
 ### The Calculator
 ![image of the calculator](Images/Kalk.png)
